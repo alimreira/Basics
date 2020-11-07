@@ -1,2 +1,2 @@
-# Basics
-From scratch
+- **It's Saturday**
+- _There is a bunch of tasks to undertake_
